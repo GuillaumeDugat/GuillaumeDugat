@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Guillaume Dugat and I am a Master of Engineering student in my final year at CentraleSupélec. This github contains some school and personal projects.
+
+### :roller_coaster: My interests
+Passionate about IT, I first did all kind of projects in the beginning of my studies before focusing on Artificial Intelligence. I am currently following advanced courses in this field, such as Deep Learning, Computer Vision, Natural Language Processing, Knowledge Graph, Optimization...
+
+### :moyai: Reach me
+- E-mail: guillaume.dugat@student-cs.fr
+- Linkedin: [here](https://www.linkedin.com/in/guillaume-dugat-25b9791a6/)
 
 <!--
 **GuillaumeDugat/GuillaumeDugat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
